@@ -15,4 +15,4 @@ int main() {
 
     cout << "Number of vowels = " << vowels << endl;
     return 0;
-} AMI PAGOL
+}
