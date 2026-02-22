@@ -34,4 +34,4 @@ int main() {
     cout << "Average = " << avg << endl;
 
     return 0;
-} NIHA
+} 
